@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Power BI temp files
+*.pbix.autosave
+
+# Excel temporary lock files
+~$*.xlsx
+
+# VS Code
+.vscode/
