@@ -1,11 +1,12 @@
-# IT-Service-Desk-Automation
-A Python-based IT service desk solution designed to automate incident intake, ticket creation, assignment, prioritization, closure tracking, and performance reporting.
-
 # IT Service Desk Automation & Analytics Platform
 
-![Dashboard](Dashboard.png)
+A Python-based IT service desk automation solution that automates incident creation, routing, prioritization, resolution tracking, and Power BI reporting.
 
-A Python based desk automation solution that automates incident creation, routing, prioritization, resolution tracking, and Power BI reporting.
+## Dashboard Preview
+
+![IT Service Desk Dashboard](images/dashboard.png)
+
+---
 
 ## Overview
 
