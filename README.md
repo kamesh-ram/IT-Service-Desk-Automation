@@ -2,6 +2,7 @@
 A Python-based IT service desk solution designed to automate incident intake, ticket creation, assignment, prioritization, closure tracking, and performance reporting.
 
 **IT Service Desk Automation & Analytics Platform**
+
 Overview
 
 A Python-based IT service desk solution designed to automate incident intake, ticket creation, assignment, prioritization, closure tracking, and performance reporting.
