@@ -205,4 +205,4 @@ The Power BI dashboard tracks key service desk performance indicators:
 
 **Kameshwaran Ramachandran**
 
-Aspiring IT Support Analyst | Service Desk Analyst | Automation & Reporting Enthusiast
+IT Support Analyst | Service Desk Analyst | 
