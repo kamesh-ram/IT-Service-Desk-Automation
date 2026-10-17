@@ -4,7 +4,7 @@ A Python-based IT service desk automation solution that automates incident creat
 
 ## Dashboard Preview
 
-![IT Service Desk Dashboard](Images/dashboard.png)
+![IT Service Desk Dashboard](Images/Dashboard.png)
 
 ---
 
