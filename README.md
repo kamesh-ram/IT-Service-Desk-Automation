@@ -3,9 +3,13 @@ A Python-based IT service desk solution designed to automate incident intake, ti
 
 # IT Service Desk Automation & Analytics Platform
 
+![Dashboard](Dashboard.png)
+
+A Python based desk automation solution that automates incident creation, routing, prioritization, resolution tracking, and Power BI reporting.
+
 ## Overview
 
-The IT Service Desk Automation & Analytics Platform is a Python-based solution designed to simulate a real-world IT service desk environment. The project automates incident processing, ticket assignment, priority classification, incident closure tracking, and operational reporting through Power BI.
+The IT Service Desk Automation & Analytics Platform is a Python based solution designed to simulate a real-world IT service desk environment. The project automates incident processing, ticket assignment, priority classification, incident closure tracking, and operational reporting through Power BI.
 
 The solution demonstrates practical IT support, automation, reporting, and analytical skills commonly used by IT Support Analysts, Service Desk Analysts, and L2 IT Support professionals.
 
