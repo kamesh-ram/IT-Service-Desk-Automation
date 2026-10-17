@@ -16,6 +16,17 @@ The solution demonstrates practical IT support, automation, reporting, and analy
 
 ---
 
+## Key Features
+
+- Automated Incident Creation
+- Priority Classification
+- Ticket Routing
+- Resolution Tracking
+- SLA Metrics
+- Power BI Dashboard Reporting
+
+---
+
 ## Business Problem
 
 Service desk teams often spend significant time performing repetitive administrative tasks such as:
